@@ -1,0 +1,15 @@
+.Items{
+color: #fff;
+margin-left: 2rem;
+font-size: 1.5rem;
+text-decoration: none;
+cursor: pointer;
+font-family:Verdana;
+}
+
+.liItems{
+list-style: none;
+text-decoration: none;
+justify-content: center;
+align-items: center;
+}
